@@ -1,4 +1,4 @@
-# # Unicef Equity Profiles
+## Unicef Equity Profiles
 
 Equity profiles are part of UNICEF's countdown to 2030 Initiative that describes the progress of low- and middle-income countries in improving societal equity. 
 It contains various charts and tables describing income, education, and more. We are trying to improve some of the visualizations using Python as a tool.
